@@ -28,6 +28,7 @@ LIBRARY_APPS = [
     'drf_yasg',
     'rest_framework',
     'autoslug',
+    'django_filters',
 
 ]
 
